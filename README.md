@@ -88,9 +88,11 @@ Implement and compare tree-based models (Decision Tree and Random Forest) for cl
 
 ## 📈 Visualizations Included
 
-- Decision Tree (Unrestricted)![randomforest](https://github.com/user-attachments/assets/9da0e35a-df5b-45f7-9030-27618b299f55)
+- Decision Tree (Unrestricted):![randomforest](https://github.com/user-attachments/assets/086bfb7a-9ddc-4b44-a7ac-0a6e9fd75e94)
 
-- Decision Tree (Depth-Limited)![Screenshot 2025-06-03 114031](https://github.com/user-attachments/assets/b75b8571-7ed5-4c71-bbd9-14dede050c09)
+
+- Decision Tree (Depth-Limited)![randomforest](https://github.com/user-attachments/assets/2c842f04-f8b1-4d44-9a30-8af4f582907d)
+
 
 - Random Forest Feature Importances![randomforest](https://github.com/user-attachments/assets/485e1811-d7fa-4752-a11d-939d1c25b693)
 
